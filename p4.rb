@@ -5,15 +5,15 @@
 arr = [1, 3, 5, 7, 9, 11]
 number = 3
 
-# arr.each do |e| 
-#     if e == number
-#         puts "#{number} appears in the array"
+arr.each do |e| 
+    if e == number
+        puts "#{number} appears in the array"
 
-#     end
-# end
+    end
+end
    
 
 
-arr.include?number
-puts "#{number} appears in the array"
+# arr.include?number
+# puts "#{number} appears in the array"
 

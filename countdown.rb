@@ -1,6 +1,6 @@
 # A program to countdown from any number given by the user 
 # and print to the screen each number as it counts. 
-
+# While loops problem set
 
 puts "enter a number: " 
 x = gets.chomp.to_i

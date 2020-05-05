@@ -1,4 +1,5 @@
 # MIT problem set: Find a factorial of a number using recursion.
+#Solve using with and without recursion to understand the difference.
 
 # puts "This is without recursion"
 # def fact(num)      

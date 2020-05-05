@@ -4,7 +4,8 @@
 
 
 def greeting(name)
-    "Hello " + name + ". How are you doing?"
+   "Hello " + name + ". How are you doing?"
 end
-puts greeting("ambika")
+puts greeting("bikam")
+
 
